@@ -7,6 +7,7 @@ Federated Learning,
 > [Link]()
 
 ## News
+* [2024-06-28] Repo created. Paper and code release.
 * [2024-06-10] Repo created. Paper and code will come soon.
 
 ## Abstract
